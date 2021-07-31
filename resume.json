@@ -1,0 +1,55 @@
+{
+	"basics": {
+		"name": "Abhishek Kandoi",
+		"label": "Student",
+		"picture": "https://github.com/AbhishekKandoi/Resume/blob/main/IMG_20190227_144914.jpg",
+		"email": "2019KUCP1048@iiitkota.ac.in",
+		"phone": "8502086066",
+		"summary": "I'm a Computer Science & Engineering student at Indian Institute of Information technology,Kota (Rajasthan)",
+		"location": {
+			"address": "Ward No. 21",
+			"postalCode": "331304",
+			"city": "Taranagar",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "AbhisheKandoi",
+				"url": "https://github.com/AbhishekKandoi/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Abhishek Kandoi",
+				"url": "https://www.linkedin.com/in/abhishek-kandoi-01/"
+			},
+			{
+				"network": "Instagram",
+				"username": "abhi_kandoi",
+				"url": "https://www.instagram.com/abhi_kandoi/"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-05-08",
+		"endDate": "2023",
+		"gpa": "8.08 (till 4th sem)",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "C/C++", "Python(beginner)"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Cricket"]
+
+	}],
+
+}
